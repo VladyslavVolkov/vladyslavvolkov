@@ -1,7 +1,8 @@
-I am providing technology consulting, educational services, coaching, mentoring and supervision for IT professionals and project teams.
+Providing technology consulting, educational services, coaching, mentoring and supervision for IT professionals and project teams.
 
-I have over ten-year development experience working with web technologies, cloud computing & infrastructure, system design.
-Top competencies in programming, technology consulting, system architecture.
+Have over ten-year development experience working with web technologies, cloud computing & infrastructure, system design.
+
+Top competencies in programming, technology consulting, system design, cloud operations, engineering practices injection.
 
 [JetBrains IDEs](https://github.com/JetBrains) Advocate.
 
