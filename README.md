@@ -3,39 +3,20 @@ I am providing technology consulting, educational services, coaching, mentoring 
 I have over ten-year development experience working with web technologies, cloud computing & infrastructure, system design.
 Top competencies in programming, technology consulting, system architecture.
 
-@jetbrains IDEs advocate.
+[JetBrains IDEs](https://github.com/JetBrains) Advocate.
 
-@cncf and @kubernetes evangelist.
+[Cloud-Native](https://github.com/cncf) and [Kubernetes](https://github.com/kubernetes) Evangelist.
 
 ## Contributing
 
-### Github Actions
-
-- @hiberbee/github-action-skaffold
-- @hiberbee/github-action-minikube
-- @hiberbee/github-action-kops
-
-## Methodologies
-- Extreme Programming
-- P-Programming
-- Dev/Sec/Test/Ops
-- Continuous Integration, Deployment & Delivery
-- 12-factor Apps
-- Business-Driven Development
-- Cloud-Native Applications
-
-## Business domains
-- automotive
-- government services
-- e-commerce
-- gambling
-- media-streaming & video-on-demand
-- enterprise systems
+- **Github Actions**: [Skaffold](https://github.com/hiberbee/github-action-skaffold), [Minikube](https://github.com/hiberbee/github-action-minikube), [Kops](https://github.com/hiberbee/github-action-kops)
 
 ## Core skills & specialization
+- **Business domains**: automotive, government services, e-commerce, gambling, media-streaming, video-on-demand, enterprise systems
+- **Methodologies**: Extreme Programming, P-Programming, Dev/Sec/Test/Ops, Continuous Integration, Deployment & Delivery, 12-factor Apps, Business-Driven Development, Cloud-Native Applications
 - **System Design**: Microservices, CQRS, Client-Server, ADR, HA
-- **Software Development**: JVM-family (@javaee, @jetbrains/kotlin, @groovy, @scala), Web (@php, @python, @ruby, @nodejs, @microsoft/typescript), Scripting (@gitGNU/gnu_bash, @powershell, @gradle, @golang)
-- **IT operations**: CloudNative Landscape Full-Stack (@kubernetes + CRI, CNI, CSI, Data/Control planes, Service & Application meshes), Cloud Providers (@AWS, @GoogleCloudPlatform, @Azure, @DigitalOcean)
+- **Software Development**: JVM-family ([Java](https://github.com/javaee), [Kotlin](https://github.com/jetbrains/kotlin), [Groovy](https://github.com/groovy), [Scala](https://github.com/scala)), Web (@php, @python, @ruby, @nodejs, @microsoft/typescript), Scripting (@gitGNU/gnu_bash, @powershell, @gradle, @golang)
+- **IT operations**: CloudNative Landscape Full-Stack ([Kubernetes](https://github.com/kubernetes) + CRI, CNI, CSI, Data/Control planes, Service & Application meshes), Cloud Providers (@AWS, @GoogleCloudPlatform, @Azure, @DigitalOcean)
 - **Test Automation**: xUnit-family, @cucumber, Jest, Selenium, Gatling, Taurus
 
 <p align="center">
@@ -43,9 +24,9 @@ Top competencies in programming, technology consulting, system architecture.
 </p>
 
 ## Acknowledges
-- @torvalds for Linux OS
-- @jetbrains for best development tooling
-- @brendandburns for Kubernetes
-- @geerlingguy for Ansible roles
-- @tonsky for Fira Code font
+- [@torvalds](https://github.com/torvalds) for Linux OS
+- [@jetbrains](https://github.com/jetbrains) for best development tooling
+- [@brendandburns](https://github.com/brendandburns) for Kubernetes
+- [@geerlingguy](https://github.com/geerlingguy) for Ansible
+- [@tonsky](https://github.com/tonsky) for Fira Code font
 
