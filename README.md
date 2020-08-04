@@ -16,7 +16,7 @@ Top competencies in programming, technology consulting, system design, cloud ope
 - **Business domains**: automotive, government services, e-commerce, gambling, media-streaming, video-on-demand, enterprise systems
 - **Methodologies**: Extreme Programming, P-Programming, Dev/Sec/Test/Ops, Continuous Integration, Deployment & Delivery, 12-factor Apps, Business-Driven Development, Cloud-Native Applications
 - **System Design**: Microservices, CQRS, Client-Server, ADR, HA
-- **Software Development**: JVM-family ([Java](https://github.com/javaee), [Kotlin](https://github.com/jetbrains/kotlin), [Groovy](https://github.com/groovy), [Scala](https://github.com/scala)), Web (@php, @python, @ruby, @nodejs, @microsoft/typescript), Scripting (@gitGNU/gnu_bash, @powershell, @gradle, @golang)
+- **Software Development**: JVM-family (<img src="https://raw.githubusercontent.com/vladyslavvolkov/vladyslavvolkov/master/icons/java.svg" width="16" height="16" style="vertical-align:bottom" />[Java](https://github.com/javaee), [Kotlin](https://github.com/jetbrains/kotlin), [Groovy](https://github.com/groovy), [Scala](https://github.com/scala)), Web (@php, @python, @ruby, @nodejs, @microsoft/typescript), Scripting (@gitGNU/gnu_bash, @powershell, @gradle, @golang)
 - **IT operations**: CloudNative Landscape Full-Stack ([Kubernetes](https://github.com/kubernetes) + CRI, CNI, CSI, Data/Control planes, Service & Application meshes), Cloud Providers (@AWS, @GoogleCloudPlatform, @Azure, @DigitalOcean)
 - **Test Automation**: xUnit-family, @cucumber, Jest, Selenium, Gatling, Taurus
 
