@@ -24,7 +24,10 @@ Top competencies in programming, technology consulting, system design, cloud ope
 - **Tooling**: [![Gradle](https://raw.githubusercontent.com/vladyslavvolkov/vladyslavvolkov/master/icons/gradle.svg)](https://github.com/gradle)
 - **Test Automation**: xUnit-family, Cucumber, Jest, Selenium, Gatling, Taurus
 
+## Metrics
+
 <p align="center">
+  <img src="https://github.com/vladyslavvolkov/vladyslavvolkov/master/images/2019-wakatime.svg" alt="Wakatime Time" />
   <img src="https://wakatime.com/share/@hiberbee/23375302-5a87-45aa-8fd4-d98a60c1f06f.svg" alt="Wakatime Langauges" />
 </p>
 
