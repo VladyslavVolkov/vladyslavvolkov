@@ -1,14 +1,18 @@
-Providing technology consulting, educational services, coaching, mentoring and supervision for IT professionals and project teams.
+## About
 
-As long as it's possible, I'm [сontributing](#contributing) to open-source software. If you like my work and want me to be able to keep improving it, I would appreciate for sponsorship support.
+Providing technology consulting, educational services, coaching, mentoring and supervision for IT professionals and project teams.
 
 Have over ten-year development experience working with web technologies, cloud computing & infrastructure, system design.
 
 Top competencies in programming, technology consulting, system design, cloud operations, engineering practices injection.
 
-[JetBrains IDEs](https://github.com/JetBrains) Advocate.
+As long as it's possible, [сontributing](#contributing) to open-source software. If you like my work and want me to be able to keep improving it, I would appreciate for sponsorship support.
 
-[Cloud-Native](https://github.com/cncf) and [Kubernetes](https://github.com/kubernetes) Evangelist.
+- [JetBrains IDEs](https://github.com/JetBrains) advocate 
+- [Cloud-Native](https://github.com/cncf) evangelist
+- [Wakatime](https://wakatime.com/@vladyslavvolkov) pusher
+- [Linkedin](https://linkedin.com/in/vladyslavvolkov) user
+
 
 ## Core skills & specialization
 
@@ -28,11 +32,6 @@ Top competencies in programming, technology consulting, system design, cloud ope
 - **IDE plugins & Themes**: [JetBrains theme](https://github.com/hiberbee/jetbrains-ide-theme), [VS Code theme](https://github.com/hiberbee/vscode-theme), [Windows Terminal](https://github.com/hiberbee/windows-terminal-theme)
 - **Ansible Collections**: [DevOps](https://github.com/hiberbee/ansible-collection-devops), [Project Templates](https://github.com/hiberbee/ansible-collection-templates)
 - **Project Templates**: [Java/Spring](https://github.com/hiberbee/template-java-spring), [PHP/Symfony](https://github.com/hiberbee/template-php-symfony), [TypeScript/React](https://github.com/hiberbee/template-typescript-react), [TypeScript/GraphQL](https://github.com/hiberbee/template-typescript-graphql), [Java/Cucumber](https://github.com/hiberbee/template-java-cucumber)
-
-## Profiles
-
-- [Wakatime](https://wakatime.com/@vladyslavvolkov)
-- [Linkedin](https://linkedin.com/in/vladyslavvolkov)
 
 ## Metrics
 
