@@ -1,5 +1,7 @@
 Providing technology consulting, educational services, coaching, mentoring and supervision for IT professionals and project teams.
 
+As long as it's possible, I'm [сontributing](#contributing) to open-source software. If you like my work and want me to be able to keep improving it, please sponsor me on Github.
+
 Have over ten-year development experience working with web technologies, cloud computing & infrastructure, system design.
 
 Top competencies in programming, technology consulting, system design, cloud operations, engineering practices injection.
