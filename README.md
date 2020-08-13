@@ -8,7 +8,7 @@ Top competencies in programming, technology consulting, system design, cloud ope
 
 As long as it's possible, [сontributing](#contributing) to open-source software. If you like my work and want me to be able to keep improving it, I would appreciate for sponsorship support.
 
-- [JetBrains IDEs](https://github.com/JetBrains) advocate 
+- [JetBrains IDEs](https://github.com/JetBrains) advocate
 - [Cloud-Native](https://github.com/cncf) evangelist
 - [Wakatime](https://wakatime.com/@vladyslavvolkov) pusher
 - [Linkedin](https://linkedin.com/in/vladyslavvolkov) user
@@ -43,6 +43,7 @@ As long as it's possible, [сontributing](#contributing) to open-source software
   <img style="position: relative; top: 50%; transform: translateY(-50%);" align="left" src="https://github-readme-stats.vercel.app/api?username=vladyslavvolkov&count_private=true&show_icons=true&line_height=21" />
   <img style="position: relative; top: 50%; transform: translateY(-50%);" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladyslavvolkov&layout=compact" />
 </p>
+<br>
 
 ## Acknowledges
 
