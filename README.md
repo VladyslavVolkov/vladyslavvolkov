@@ -1,12 +1,18 @@
+## About
+
 Providing technology consulting, educational services, coaching, mentoring and supervision for IT professionals and project teams.
 
 Have over ten-year development experience working with web technologies, cloud computing & infrastructure, system design.
 
 Top competencies in programming, technology consulting, system design, cloud operations, engineering practices injection.
 
-[JetBrains IDEs](https://github.com/JetBrains) Advocate.
+As long as it's possible, [сontributing](#contributing) to open-source software. If you like my work and want me to be able to keep improving it, I would appreciate for sponsorship support.
 
-[Cloud-Native](https://github.com/cncf) and [Kubernetes](https://github.com/kubernetes) Evangelist.
+- [JetBrains IDEs](https://github.com/JetBrains) advocate 
+- [Cloud-Native](https://github.com/cncf) evangelist
+- [Wakatime](https://wakatime.com/@vladyslavvolkov) pusher
+- [Linkedin](https://linkedin.com/in/vladyslavvolkov) user
+
 
 ## Core skills & specialization
 
@@ -21,14 +27,11 @@ Top competencies in programming, technology consulting, system design, cloud ope
 
 ## Contributing
 
-- **Github Actions**: [Skaffold](https://github.com/hiberbee/github-action-skaffold), [Minikube](https://github.com/hiberbee/github-action-minikube), [Kops](https://github.com/hiberbee/github-action-kops), [Cucumber](https://github.com/hiberbee/github-action-cucumber)
-- **Cucumber**: [Kubernetes](https://github.com/hiberbee/cucumber-kubernetes)
-- **IDE plugins**: [JetBrains theme](https://github.com/hiberbee/jetbrains-ide-theme), [VS Code theme](https://github.com/hiberbee/vscode-theme), [Kops](https://github.com/hiberbee/github-action-kops), [Cucumber](https://github.com/hiberbee/github-action-cucumber)
-
-## Profiles
-
-- [Wakatime](https://wakatime.com/@vladyslavvolkov)
-- [Linkedin](https://linkedin.com/in/vladyslavvolkov)
+- **Github Actions**: [Skaffold](https://github.com/hiberbee/github-action-skaffold), [Minikube](https://github.com/hiberbee/github-action-minikube), [Helm](https://github.com/hiberbee/github-action-helm), [Kops](https://github.com/hiberbee/github-action-kops), [Cucumber](https://github.com/hiberbee/github-action-cucumber), [Taurus](https://github.com/hiberbee/github-action-taurus)
+- **Cucumber**: [Kubernetes](https://github.com/hiberbee/cucumber-kubernetes), [Docker](https://github.com/hiberbee/cucumber-docker), [Selenium](https://github.com/hiberbee/cucumber-selenium), [REST](https://github.com/hiberbee/cucumber-rest-api), [GraphQL](https://github.com/hiberbee/cucumber-graphql), [System](https://github.com/hiberbee/cucumber-system)
+- **IDE plugins & Themes**: [JetBrains theme](https://github.com/hiberbee/jetbrains-ide-theme), [VS Code theme](https://github.com/hiberbee/vscode-theme), [Windows Terminal](https://github.com/hiberbee/windows-terminal-theme)
+- **Ansible Collections**: [DevOps](https://github.com/hiberbee/ansible-collection-devops), [Project Templates](https://github.com/hiberbee/ansible-collection-templates)
+- **Project Templates**: [Java/Spring](https://github.com/hiberbee/template-java-spring), [PHP/Symfony](https://github.com/hiberbee/template-php-symfony), [TypeScript/React](https://github.com/hiberbee/template-typescript-react), [TypeScript/GraphQL](https://github.com/hiberbee/template-typescript-graphql), [Java/Cucumber](https://github.com/hiberbee/template-java-cucumber)
 
 ## Metrics
 
