@@ -36,6 +36,10 @@ Top competencies in programming, technology consulting, system design, cloud ope
   <img src="https://raw.githubusercontent.com/vladyslavvolkov/vladyslavvolkov/master/images/2019-wakatime.png" alt="Wakatime Time" />
   <img src="https://raw.githubusercontent.com/vladyslavvolkov/vladyslavvolkov/master/images/languages.png" alt="Wakatime Languages" />
 </p>
+<p align="center">
+  <img style="position: relative; top: 50%; transform: translateY(-50%);" align="left" src="https://github-readme-stats.vercel.app/api?username=vladyslavvolkov&count_private=true&show_icons=true&line_height=21" />
+  <img style="position: relative; top: 50%; transform: translateY(-50%);" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladyslavvolkov&layout=compact" />
+</p>
 
 ## Acknowledges
 
