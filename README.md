@@ -53,3 +53,4 @@ As long as it's possible, [сontributing](#contributing) to open-source software
 | [Facebook](https://github.com/facebook) for [React](https://github.com/facebook/react) & [GraphQL](https://github.com/graphql/graphql-spec) design | [Jeff Geerling](https://github.com/geerlingguy) for Ansible contribution  |
 | [Microsoft](https://github.com/microsoft) for [WSL](https://github.com/microsoft/wsl) & [TypeScript](https://github.com/microsoft/typescript) | [Nikita Prokopov](https://github.com/tonsky) for Fira Code font development |
 | [Pivotal](https://github.com/pivotal) for Spring Framework | [Fabien Potencier](https://github.com/fabpot) for Symfony framework contribution |
+| <img width=400/> | <img width=400/> |
