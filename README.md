@@ -10,9 +10,11 @@ As long as it's possible, [сontributing](#contributing) to open-source software
 
 - [JetBrains IDEs](https://github.com/JetBrains) advocate
 - [Cloud-Native](https://github.com/cncf) evangelist
-- [Wakatime](https://wakatime.com/@vladyslavvolkov) pusher
-- [Linkedin](https://linkedin.com/in/vladyslavvolkov) user
+- [Wakatime](https://wakatime.com/@vladyslavvolkov) pusher 
 
+<p align="center">
+  <a href="https://linkedin.com/in/vladyslavvolko" target="_blank"><img src="https://img.shields.io/badge/linkedin-vladyslavvolkov-blue" alt="Linkedin" /></a.
+</p>
 
 ## Core skills & specialization
 
