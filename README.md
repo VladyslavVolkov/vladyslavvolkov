@@ -8,12 +8,11 @@ Top competencies in programming, technology consulting, system design, cloud ope
 
 As long as it's possible, [сontributing](#contributing) to open-source software. If you like my work and want me to be able to keep improving it, I would appreciate for sponsorship support.
 
-- [JetBrains IDEs](https://github.com/JetBrains) advocate
-- [Cloud-Native](https://github.com/cncf) evangelist
-- [Wakatime](https://wakatime.com/@vladyslavvolkov) pusher 
-
 <p align="center">
-  <a href="https://linkedin.com/in/vladyslavvolko" target="_blank"><img src="https://img.shields.io/badge/linkedin-vladyslavvolkov-blue" alt="Linkedin" /></a.
+  <a href="https://github.com/cncf" target="_blank"><img src="https://img.shields.io/badge/cloudnative-evangelist-green" alt="CNCF" /></a>
+  <a href="https://github.com/JetBrains" target="_blank"><img src="https://img.shields.io/badge/jetbrains-advocate-red" alt="Jetbrains" /></a>
+  <a href="https://wakatime.com/@vladyslavvolkov" target="_blank"><img src="https://img.shields.io/badge/wakatime-vladyslavvolkov-black" alt="Wakatime" /></a>
+  <a href="https://linkedin.com/in/vladyslavvolkov" target="_blank"><img src="https://img.shields.io/badge/linkedin-vladyslavvolkov-blue" alt="Linkedin" /></a>
 </p>
 
 ## Core skills & specialization
