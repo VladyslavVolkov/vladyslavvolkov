@@ -6,7 +6,7 @@ Have over ten-year development experience working with web technologies, cloud c
 
 Top competencies in programming, technology consulting, system design, cloud operations, engineering practices injection.
 
-As long as it's possible, [сontributing](#contributing) to open-source software. If you like my work and want me to be able to keep improving it, I would appreciate for sponsorship support.
+As long as it's possible, [сontributing](#contributing) to open-source software. If you like my work and want me to be able to keep improving it, I would appreciate for [sponsorship](https://paypal.com/paypalme/vladyslavvolkov) support.
 
 <p align="center">
   <a href="https://github.com/cncf" target="_blank"><img src="https://img.shields.io/badge/cloudnative-evangelist-green" alt="CNCF" /></a>
