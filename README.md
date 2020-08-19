@@ -42,7 +42,7 @@ As long as it's possible, [сontributing](#contributing) to open-source software
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vladyslavvolkov&count_private=true&show_icons=true&line_height=21" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladyslavvolkov&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladyslavvolkov&layout=compact" alt="languages" />
 </p>
 
 ## Acknowledges
