@@ -41,10 +41,13 @@ As long as it's possible, [сontributing](#contributing) to open-source software
   <img src="https://raw.githubusercontent.com/vladyslavvolkov/vladyslavvolkov/master/images/languages.png" alt="Wakatime Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@vladyslavvolkov&layout=compact&range=last_7_days" alt="Wakatime Time" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vladyslavvolkov&count_private=true&show_icons=true?line_height=21&include_all_commits=true&disable_animations=true" alt="Wakatime Languages" />
+  
+  
 </p>
 
+
+| <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@vladyslavvolkov&layout=compact&range=last_7_days&border_color=fff" alt="Wakatime Time" /> | <img src="https://github-readme-stats.vercel.app/api?username=vladyslavvolkov&count_private=true&show_icons=true?line_height=21&include_all_commits=true&disable_animations=true&border_color=fff" alt="Wakatime Languages" /> |
+| --- | --- | 
 ## Acknowledges
 
 | Companies | People |
