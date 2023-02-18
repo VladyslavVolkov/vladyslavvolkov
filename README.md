@@ -13,6 +13,7 @@ As long as it's possible, [сontributing](#contributing) to open-source software
   <a href="https://github.com/JetBrains" target="_blank"><img src="https://img.shields.io/badge/jetbrains-advocate-red" alt="Jetbrains" /></a>
   <a href="https://wakatime.com/@vladyslavvolkov" target="_blank"><img src="https://img.shields.io/badge/wakatime-vladyslavvolkov-black" alt="Wakatime" /></a>
   <a href="https://linkedin.com/in/vladyslavvolkov" target="_blank"><img src="https://img.shields.io/badge/linkedin-vladyslavvolkov-blue" alt="Linkedin" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=vladyslavvolkov&rank=SECRET,S,AAA,AA,A&column=4&no-bg=true&no-frame=true&theme=flat" />
 </p>
 
 ## Core skills & specialization
