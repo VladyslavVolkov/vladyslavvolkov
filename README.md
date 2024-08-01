@@ -1,5 +1,6 @@
 ## About
 
+
 Providing technology consulting, educational services, coaching, mentoring and supervision for IT professionals and project teams.
 
 Have over ten-year development experience working with web technologies, cloud computing & infrastructure, system design.
